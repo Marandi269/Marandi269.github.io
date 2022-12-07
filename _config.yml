@@ -1,21 +1,12 @@
-# ---------------------------------------------------------------
-# Jekyll & Global Configuration
-## Docs: https://jekyllrb.com/docs/configuration/
-# ---------------------------------------------------------------
+title: meng虎日记
+SEOTitle: meng虎日记 | tiger Blog
+header-img: img/home-bg.jpg
+email: Marandi@139.com
+description: ""
+keyword: ""
+url: "https://marandi269.github.io/"              # your host, for absolute URL
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
-# Site
-title: NexT
-subtitle:
-description:
-author: John Doe
-# Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
-date_format: '%Y-%m-%d'
-
-# URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: https://geekwiki.cn
-baseurl:
 permalink: pretty
 
 # Pagination
