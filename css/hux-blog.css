@@ -44,6 +44,8 @@
 .sidebar-container .short-about p {
   margin-top: 0px;
   margin-bottom: 20px;
+  text-align: center;
+  background-color: lightblue;
 }
 .sidebar-container .short-about .list-inline > li {
   padding-left: 0px;
